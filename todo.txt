@@ -1,0 +1,4 @@
+- test queries: https://docs.github.com/en/graphql/overview/explorer
+- collect all files for each pull repo and check if there's a test file.
+- save results for each repo
+- rate limit  
